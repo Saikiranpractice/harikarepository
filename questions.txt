@@ -1,0 +1,110 @@
+https://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm#
+http://aerointerview.com/2014/03/mcdc/
+https://doc178b.blogspot.com/#:~:text=Typically%20a%20CC2%20items%20tends%20to%20be%20%22one-shots%22,it%20a%20big%20deal%20in%20DO178B%2C%20well%20yes.
+malloc calloc realloc
+how to avoid dangling pointer?
+memory leakage
+storage classes
+test case technique 
+v & V module
+structure padding
+segmentation of memory
+(A || B) && (C || D)
+local n global static
+global n static
+const to pointer(value cannot change) and pointer to constant(address cannot be chaged)
+const int *ptr;
+int const *ptr;
+int *const ptr;
+how to test main function
+SSIT HSIT (memory)
+Types of bug
+bug life cycle n PR life cycle
+if(a > 10)
+{ print a;} stmt n decision coverage
+structure padding
+dangling pointer
+memory leakage
+bug life cycle
+-------------------
+varient record
+seperate keyword
+use with keywords
+access specifiers 
+overload n override
+---------------------
+array of pointer n pointers to array
+volatile n void
+structure padding
+SDLC and docs
+STLC and verification life cycle
+software life cycle
+-----------------------
+PTU format
+function pointer
+static variable
+whitebox n blackbox
+MCDC n multiple conditions diff
+storage classes
+------------------------
+Generics
+constrained array and unconstrained array
+accesstypes 
+-------------------------
+cc1 life cycle data : PSAC ,SDP,SVCP,SCMP,SRD,SDD--
+CC2: SVR SCM RECORDS,SPR,SDPR SQA RECORDS--
+what is control and data coupling  --
+structure n union difference--
+what is structure padding
+infinite for loop , whileloop , do whileloop 
+what is dead code n deactivated code?--
+memory layout --
+what is requirement base low level testing--
+testing techniques --
+v model
+protocals like ARINC
+documnents covered during requirment n design phasw ( Hcl question)
+verification n validation--
+objuectives a=66 b=65,c=57, d=28--
+dangling pointer--
+little endian n big endian
+null pointer--
+callac, malloc relloc free
+MCDC--
+static analysis and dynamic analysis
+low level testing bugs 
+why is DD is used --
+why robust test cases required--
+
+1.me projects gurinchi oka 3min explain cheyyu
+2.mcdc coverage examples practice
+3.boundary value analysis
+4.equiavlency partition
+5.do178b stands just prepare interview questions
+6.volatile keyword
+7.dead code and deactivate code meaning and difference
+8.static keyword and its uses
+9.what is the difference between global static and local static
+10.prepare small programmes in c
+11.different between union and structure
+12.what is pointer and pre increment and post increment 
+13.SDLC and STLC and V model
+14.what are the types of testing concepts
+15.what do u know abut storage class
+16.write a programme for power of 2 using bitwise operators
+17.how much u expect annapudu as per company standards ane cheppale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
